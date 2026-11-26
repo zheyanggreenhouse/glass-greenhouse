@@ -14,7 +14,7 @@ Cangzhou Zheyang Agricultural Technology provides full-cycle support from struct
 - **Container Cube Optimization**: Phased bundling and custom wooden-frame cradling to minimize international ocean freight volume and prevent in-transit glass breakage.
 - **Comprehensive Erection Blueprints**: Complete 3D CAD shop drawings, connection detail guides, and step-by-step video installation manuals for local assembly contractors.
 
-- 🏛️ [Commercial Tempered Glass Greenhouse](Tempered%20glass%20greenhouse.md)
+- 🏛️ [Commercial Tempered Glass Greenhouse]([Tempered%20glass%20greenhouse.md](https://www.zygreenhouse.com/products/tempered-glass-greenhouse.html))
 
 
 
