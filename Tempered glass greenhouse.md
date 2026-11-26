@@ -14,18 +14,8 @@ Cangzhou Zheyang Agricultural Technology provides full-cycle support from struct
 - **Container Cube Optimization**: Phased bundling and custom wooden-frame cradling to minimize international ocean freight volume and prevent in-transit glass breakage.
 - **Comprehensive Erection Blueprints**: Complete 3D CAD shop drawings, connection detail guides, and step-by-step video installation manuals for local assembly contractors.
 
----
-
-👉 **[Explore Tempered Glass Greenhouse Specifications & Turnkey Solutions](https://www.zygreenhouse.com/products/tempered-glass-greenhouse.html)**
-2. 将该文件链接加入仓库首页的 README.md（非常关键的闭环操作）
-为什么要做：进入您仓库主页 https://github.com/zheyanggreenhouse/glass-greenhouse 时，系统默认展示的是 README.md 的内容。如果主页不放这个文件的入口，该文件就成了“孤立子页面”。
-操作方法：
-回到仓库主页，点击 README.md，点右上角铅笔图标编辑；
-在里面加上一行目录链接，例如：
-
 - 🏛️ [Commercial Tempered Glass Greenhouse](Tempered%20glass%20greenhouse.md)
-点击 Commit changes... 保存。
-完成这两步后，整个仓库就会形成结构严谨、排版清爽、内外链互通的完美展示效果！
+
 
 
 
